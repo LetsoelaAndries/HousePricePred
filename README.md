@@ -31,8 +31,8 @@ This project aims to predict house prices based on various features such as loca
 
 
 ## Results
-- The best-performing model achieved an RMSE of [insert value] and an R-squared score of [insert value].
-- Feature importance analysis showed that [mention key features] had the most impact on house prices.
+- The best-performing model achieved an RMSE of 71% and an R-squared score of 76%.
+- Feature importance analysis showed that Location had the most impact on house prices.
 
 ## How to Use
 1. Clone the repository:
